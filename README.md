@@ -1,6 +1,7 @@
 # 2084team.com
 
 > Zh_cn
+
 2084team.com 域名被我买了下来，更多的内容将会被添加到这个网站。
 这个域将会垂直地扩展，例如：
 - 应用开发组：https://app.2084team.com
@@ -11,6 +12,7 @@
 - 等等......
 
 > En_us
+
 Domain 2084team.com is owned by 2084team Juminiy Alan .
 More content will be added to the site .
 The domain will be vertically extended, for example 
